@@ -1,0 +1,10 @@
+#
+# SoC audio configuration
+#
+
+config SND_SOC_TAS571X
+   bool "TI Amplifier Chip"
+   default n
+   help
+       TI Amplifier Chip
+

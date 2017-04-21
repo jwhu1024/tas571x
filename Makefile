@@ -1,0 +1,1 @@
+obj-$(CONFIG_SND_SOC_TAS571X) := tas571x.o
